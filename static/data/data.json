@@ -1,0 +1,37 @@
+[{
+    "name": "Вечеринка A",
+    "description": "Описание A",
+    "isFreeEntry": false,
+    "date": "2015-10-02",
+    "time": "13:30",
+    "price": 500,
+    "address": "Адрес А",
+    "category": "Квартирник"
+}, {
+    "name": "Вечеринка B",
+    "description": "Описание B",
+    "isFreeEntry": true,
+    "date": "2015-10-02",
+    "time": "13:30",
+    "price": 500,
+    "address": "Адрес B",
+    "category": "Квартирник"
+}, {
+    "name": "Вечеринка C",
+    "description": "Описание C",
+    "isFreeEntry": false,
+    "date": "2015-10-02",
+    "time": "13:30",
+    "price": 500,
+    "address": "Адрес C",
+    "category": "Квартирник"
+}, {
+    "name": "Вечеринка D",
+    "description": "Описание D",
+    "isFreeEntry": false,
+    "date": "2015-10-02",
+    "time": "13:30",
+    "price": 500,
+    "address": "Адрес D",
+    "category": "Квартирник"
+}]
